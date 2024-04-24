@@ -1,0 +1,14 @@
+C:\dev\JodoDeQuiz\JogoDeQuiz\bin\Debug\net7.0\JogoDeQuiz.exe
+C:\dev\JodoDeQuiz\JogoDeQuiz\bin\Debug\net7.0\JogoDeQuiz.deps.json
+C:\dev\JodoDeQuiz\JogoDeQuiz\bin\Debug\net7.0\JogoDeQuiz.runtimeconfig.json
+C:\dev\JodoDeQuiz\JogoDeQuiz\bin\Debug\net7.0\JogoDeQuiz.dll
+C:\dev\JodoDeQuiz\JogoDeQuiz\bin\Debug\net7.0\JogoDeQuiz.pdb
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.AssemblyInfoInputs.cache
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.AssemblyInfo.cs
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.csproj.CoreCompileInputs.cache
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.dll
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\refint\JogoDeQuiz.dll
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.pdb
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\JogoDeQuiz.genruntimeconfig.cache
+C:\dev\JodoDeQuiz\JogoDeQuiz\obj\Debug\net7.0\ref\JogoDeQuiz.dll
